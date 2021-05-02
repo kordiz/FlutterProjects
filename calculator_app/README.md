@@ -1,6 +1,6 @@
-# flutter_app2
+# Calculator App
 
-A new Flutter application.
+A Flutter application that performs the basic mathematical operations of addition, subtraction, multiplication, division, and percent of. This app uses the material, math expressions, and Google fonts libraries.
 
 ## Getting Started
 
